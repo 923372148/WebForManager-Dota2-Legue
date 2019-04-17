@@ -1,11 +1,11 @@
 ## 前端技术栈
 
-Vue + icework (通过API连接后端)
+Vue.js(通过API连接后端)
 
 ## 项目运行
 
 ```
-1、icework
+1、node.js环境下依赖部署
 2、mongodb/redis/mysql( 开启状态)
 
 ```
